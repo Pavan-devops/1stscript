@@ -1,0 +1,2 @@
+# 1stscript
+hello world
